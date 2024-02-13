@@ -19,3 +19,10 @@ A Spacer composable для отображения пустого простра�
 Ссылка на codelab: 
 https://developer.android.com/codelabs/basic-android-kotlin-compose-using-state?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-2-pathway-3%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-using-state#0
 
+
+Готовое приложение скриншот:
+
+![image](https://github.com/gipnozhard/TipTimeCompose/assets/71705375/547eae69-9d00-4841-9488-00d6b85f2e26)
+
+#AndroidBasics
+
